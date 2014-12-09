@@ -1347,6 +1347,10 @@
         "whois.nic.travel",
         "Not found"
     ],
+    "moe": [
+        "whois.nic.moe",
+        "FAILURE TO LOCATE A RECORD"
+    ],
     "my": [
         "whois.mynic.net.my",
         "does not exist in database"
