@@ -975,6 +975,10 @@
         "whois.nic.st",
         "No entries found"
     ],
+    "er": [
+        "json+http:\/\/whois.marcaria.com\/Custom\/WebServices\/WhoisWebService.asmx\/PerformWhoisSearchAll?query=",
+        "NOT FOUND"
+    ],
     "tc": [
         "whois.adamsnames.tc",
         "Available"
